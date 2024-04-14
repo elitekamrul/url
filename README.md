@@ -6,7 +6,7 @@ Transfer Files from Other Google Drive to My Google Drive
 
 
 - NEW <br>
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kamrullab/url/blob/main/URL_TO_GOOGLE_DRIVE.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elitekamrul/url/blob/main/URL_TO_GOOGLE_DRIVE.ipynb)
 
 ## Description
 Transfer Now! is a Python notebook that allows you to seamlessly transfer files from another Google Drive account to your own Google Drive. This can be useful when you need to migrate files, collaborate on projects, or simply make a backup.
